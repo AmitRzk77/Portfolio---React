@@ -9,6 +9,9 @@ const Projects = () => {
         <ProjectCard
           title="Blogging Website"
           main="this is a bloggin website created in next js and used some component library used some component library"
+          demoLink="https://amitrzk77.github.io/Cricbuzz/"
+        
+  
         />
         <ProjectCard
           title="Youtue Clone"

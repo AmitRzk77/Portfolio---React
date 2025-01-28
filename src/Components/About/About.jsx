@@ -21,11 +21,7 @@ const About = () => {
                   Frontend developer
                 </h1>
                 <p className="text-sm md:text-md leading-tight">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Maiores explicabo deserunt asperiores quasi, vitae blanditiis
-                  perferendis quos consectetur ea harum! Libero aut qui
-                  similique recusandae provident consectetur sed itaque alias
-                  sint ipsa?
+                I have expertise in HTML, CSS, JavaScript, React.js, and Bootstrap. Skilled in creating responsive and interactive user interfaces with clean and efficient code, I strive to deliver seamless user experiences while ensuring optimal performance.
                 </p>
               </span>
             </div>
@@ -37,8 +33,7 @@ const About = () => {
                   Database developer
                 </h1>
                 <p className="text-sm md:text-md leading-tight">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Maiores
+                I specialize in MySQL and MongoDB, with expertise in designing, managing, and optimizing databases. Skilled in creating scalable and efficient database solutions, I ensure data integrity, security, and seamless performance across various applications.
                 </p>
               </span>
             </div>
@@ -50,9 +45,7 @@ const About = () => {
                   Backend developer
                 </h1>
                 <p className="text-sm md:text-md leading-tight">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Maiores explicabo deserunt asperiores quasi, vitae blanditiis
-                  perferendis
+                I specialize in Django for building robust and scalable backend systems and am currently exploring Node.js to expand my expertise. With a focus on efficient server-side logic, API development, and database integration, I aim to deliver reliable and high-performance solutions.
                 </p>
               </span>
             </div>

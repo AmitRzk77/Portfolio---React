@@ -41,6 +41,7 @@ const Experience = () => {
               <p className="text-sm leading-tight font-thin">
                 Sept 2023 - Present
               </p>
+              
               <ul className="text-sm p-2">
                 <li>- Work as software developer</li>
                 <li>- Senior SDE-developer</li>
